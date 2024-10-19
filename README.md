@@ -47,6 +47,7 @@ I forgot to check the compiler version in Remix, and it threw an error. Once I s
 GitHub Authentication Problem:
 
 I had some trouble with GitHub because of two-factor authentication. I ended up generating a personal access token to log in instead of using my password.
+
 Conclusion
 This was a fun and eye-opening experience! It felt great to go from installing MetaMask to writing and deploying my very first Solidity contract. Now that it’s pushed to GitHub, I’m excited to learn more and try more advanced smart contracts in the future.
 
